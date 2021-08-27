@@ -8,7 +8,7 @@ habits in full-stack development.</h3><br>
 <div align="center"><a href="https://cutt.ly/UWrgFXU" target="_blank" style="border: 2px solid white; padding: 8px 10px; color: white; cursor: pointer">View Resume</a></div>
 <br>
 
-<p align="center">
+<p align="right">
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=strong+technical+skills+React+Hooks;Redux;JavaScript;Node.js;AWS" >
 </a>
