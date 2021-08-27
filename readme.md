@@ -2,13 +2,6 @@
 
 <h1 align="center">Hey<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px"/> I'm Peter Wang</h1>
 <br>
-<h4 align="center">I have 5 years’ experience in the software industry and have grown to code efficiently and I am confident I can
-build state-of-the-art, easy to use, user-friendly technical frameworksI have strong technical skills and can troubleshoot problems on various projects, communicate with a large
-client base and meet client and customer needs. Also, strong technical skills set allowed me to stay ahead of
-the curve and build my knowledge base on a topic that is always changing and adapting to traits, trends, and
-habits in full-stack development.</h4><br>
-<div align="center"><a href="https://cutt.ly/UWrgFXU" target="_blank" style="border: 2px solid white; padding: 8px 10px; color: white; cursor: pointer">View Resume</a></div>
-<br>
 
 <p align="center">
 <a href="#">
