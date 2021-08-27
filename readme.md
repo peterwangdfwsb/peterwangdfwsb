@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Peter Wang</h1>
+<h1 align="center">Hey<img src="https://bit.ly/3jeUABd" width="32px"/> I'm Peter Wang</h1>
 <br>
 <h3 align="center">I have 5 years’ experience in the software industry and have grown to code efficiently and I am confident I can
 build state-of-the-art, easy to use, user-friendly technical frameworksI have strong technical skills and can troubleshoot problems on various projects, communicate with a large
@@ -8,13 +8,13 @@ habits in full-stack development.</h3><br>
 <div align="center"><a href="https://cutt.ly/UWrgFXU" target="_blank" style="border: 2px solid white; padding: 8px 10px; color: white; cursor: pointer">View Resume</a></div>
 <br>
 
-<p align="right">
+<p align="center">
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=strong+technical+skills+React+Hooks;Redux;JavaScript;Node.js;AWS" >
 </a>
 </p>
 
-<img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <!-- START - CONTACT -->
 
@@ -117,5 +117,4 @@ habits in full-stack development.</h3><br>
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=peterwangdfwsb&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 <!-- END GHRAPS -->
-
 
