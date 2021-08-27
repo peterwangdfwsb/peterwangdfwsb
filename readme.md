@@ -3,7 +3,7 @@
 <h1 align="center">Hey<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px"/> I'm Peter Wang</h1>
 <br>
 
-<p align="left">
+<p align="right">
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=strong+technical+skills+React+Hooks;Redux;JavaScript;Node.js;AWS" >
 </a>
