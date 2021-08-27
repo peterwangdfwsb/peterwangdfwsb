@@ -1,4 +1,4 @@
-<h1 align="center">Hey<img src="https://bit.ly/3jeUABd" width="32px"/> I'm Peter Wang</h1>
+<h1 align="center">Hey I'm Peter Wang</h1>
 <br>
 <h3 align="center">I have 5 years’ experience in the software industry and have grown to code efficiently and I am confident I can
 build state-of-the-art, easy to use, user-friendly technical frameworksI have strong technical skills and can troubleshoot problems on various projects, communicate with a large
