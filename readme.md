@@ -4,7 +4,7 @@
 <br>
 
 <p align="right">
-  <h3>TOOLs </h3>
+  <h3>I'm Peter Wang</h3>
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=React;Hooks;Redux;JavaScript;Node.js;AWS;Python;Docker" >
 </a>
