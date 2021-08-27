@@ -1,4 +1,4 @@
-<h1 align="center">Hey<img src="https://bit.ly/3jeUABd" width="32px"/> I'm Peter Wang</h1>
+<h1 align="center">Hey<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px"/> I'm Peter Wang</h1>
 <br>
 <h3 align="center">I have 5 years’ experience in the software industry and have grown to code efficiently and I am confident I can
 build state-of-the-art, easy to use, user-friendly technical frameworksI have strong technical skills and can troubleshoot problems on various projects, communicate with a large
@@ -33,7 +33,7 @@ habits in full-stack development.</h3><br>
 
 <!-- START GITHUB-STATS -->
 
-## <img src="https://bit.ly/3mDkyQG" width="32px"> **Github Stats**
+## <img src="https://camo.githubusercontent.com/de4126dd5395c2fb600da5d41aa142767bd97d7e14fbe15a75140ef024ec13de/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636a3837437866527472556966463352796b2f67697068792e676966" width="32px"> **Github Stats**
 
 <br>
 <div align="left">
@@ -48,7 +48,9 @@ habits in full-stack development.</h3><br>
 <!-- END GITHUB STATS -->
 
 ```
-    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+    NOTE: Top Languages does not indicate my skill level or anything like that,
+     it's a GitHub metric of which languages have the most code on GitHub. 
+     It's a new feature of github-readme-stats.
 ```
 <br>
 
