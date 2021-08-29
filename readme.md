@@ -16,8 +16,6 @@
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png" width="32px"/> **Get in Touch!**
 
 <br>
-<a href="https://www.linkedin.com/in/peter-wang-ba2603135/" target="blank"><img align="center" src="https://img.shields.io/badge/PETER WANG-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:peterwangsb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/peterwangsb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/peterwangdfwsb" target="blank"><img align="center" src="https://img.shields.io/badge/PETER WANG-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
