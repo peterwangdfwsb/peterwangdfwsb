@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=React;Hooks;Redux;JavaScript;Next.js;Node.js;AWS;Python;Docker" >
 </a>
 </p>
+* [![Next][Next.js]][Next-url]
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
