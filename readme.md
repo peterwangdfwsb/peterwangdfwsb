@@ -3,7 +3,7 @@
 
 
 <p align="right">
- <h1> Peter Wang ![Next][Next.js]][Next-url] </h1>
+ <h1> Peter Wang </h1>
 <a href="#">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=React;Hooks;Redux;JavaScript;Next.js;Node.js;AWS;Python;Docker" >
 </a>
